@@ -28,8 +28,7 @@ Python CLI tool for displaying inspirational quotes with category filtering and 
 
 ## 📫 Let's Connect
 - GitHub: [@Yorss21](https://github.com/Yorss21)
-- Email: jorge_antonio-03@hotmail.com
-
+  
 ---
 
 📊 Always learning, always building, always documenting.
