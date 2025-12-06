@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jorge Cruz
 
-<!--
-**Yorss21/Yorss21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ **AWS Solutions Architect | Backend Engineer | DevOps Enthusiast**
 
-Here are some ideas to get you started:
+Building scalable cloud infrastructure and robust backend systems. Specialized in AWS services, CI/CD pipelines, and observability solutions such as Datadog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I do:
+- Design and deploy cloud architectures on AWS
+- Build backend services that handle real-world traffic
+- Set up IaaC to reduce manual maintenance on production services
+- Monitor everything and alarm creation
+
+## 🛠️ Tech Stack
+**Cloud & Infrastructure:** AWS (EC2, Lambda, S3, CloudFormation, CDK, etc...) | Docker | Terraform
+
+**Backend:** Python | Node.js | REST APIs
+
+**CI/CD & Automation:** GitHub Actions
+
+**Monitoring & Observability:** CloudWatch | Datadog
+
+## 🚀 Featured Projects
+
+### 💬 [Quote Generator](https://github.com/TU-USUARIO/quote-generator)
+Python CLI tool for displaying inspirational quotes with category filtering and comprehensive testing.
+- **Tech Stack**: Python, pytest, JSON
+- **Highlights**: 30 unit/integration tests, 96%+ coverage, clean architecture
+
+## 📫 Let's Connect
+- GitHub: [@Yorss21](https://github.com/Yorss21)
+- Email: jorge_antonio-03@hotmail.com
+
+---
+
+📊 Always learning, always building, always documenting.
